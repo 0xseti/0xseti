@@ -1,6 +1,6 @@
-### Welcome to my github.
+### Welcome to orseti's GitHub Page
 
-My name is orseti and im a student learning computer science and cybersecurity. I love looking into the lowest levels of abstraction in computer code and operating systems; and finding ways to break things :D
+Im a student learning computer science and cybersecurity. I love looking into the lowest levels of abstraction in computer code and operating systems; and finding ways to break things :D
 
 - 🌱 I’m currently learning All things low level with a focus on security. Reverse engineering, shellcode and OS Dev are my current studying topics.
 - 👯 I’m looking to collaborate on anything you can think I can help with! 
