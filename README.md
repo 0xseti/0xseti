@@ -4,5 +4,5 @@ Im a student learning computer science and cybersecurity. I love looking into th
 
 - 🌱 I’m currently learning All things low level with a focus on security. Reverse engineering, shellcode and OS Dev are my current studying topics.
 - 👯 I’m looking to collaborate on anything you can think I can help with! 
-- 📫 How to reach me: here or send me an email tom@orseti.com
+- 📫 How to reach me: here or send me an email hello@orseti.com
 - 😄 Pronouns: he/him
