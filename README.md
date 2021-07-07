@@ -1,7 +1,6 @@
-### Welcome to orseti's GitHub Page
+### Tom French's GitHub Page
 
-
-- 🌱 I’m a cyber security student cfocusing on creating cool things and reversing cool things other people made!
+- 🌱 I’m a cyber security student & .NET developer
 - 👯 Happy to collaborate on anything you can think I can help with! 
 - 📫 How to reach me: here or send me an email hello@orseti.com
 - 😄 Pronouns: he/him
